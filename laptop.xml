@@ -1,0 +1,18 @@
+<laptop>
+  <asus>
+    <zenbook>
+      <model>zenbook v2</model>
+      <price>578$</price>
+    </zenbook>
+    <vivobook>
+      <model>r558uq</model>
+      <price>530$</price>
+    </vivobook>
+  </asus>
+  <dell>
+    <7000_series>
+      <model>i7559</model>
+      <price>630$</price>
+    </7000_series>
+  </dell>
+</laptop>
